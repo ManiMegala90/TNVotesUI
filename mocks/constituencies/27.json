@@ -1,0 +1,114 @@
+[
+  {
+    "id": 27,
+    "number": "27",
+    "name": "Sholinganallur",
+    "nameTamil": "Sholinganallur",
+    "district": "Chennai",
+    "region": "Southern Tamil Nadu",
+    "classification": "IT Hub",
+    "totalVoters": 330000,
+    "genderRatio": "987 / 1000",
+    "pollingStations": 330,
+    "incumbent": {
+      "name": "Sholinganallur Representative",
+      "party": "AIADMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "4.7%",
+      "marginBarWidth": "57%"
+    },
+    "demographics": {
+      "urbanPct": 49,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 38
+        },
+        {
+          "label": "26-40",
+          "pct": 62
+        },
+        {
+          "label": "41-55",
+          "pct": 76
+        },
+        {
+          "label": "56-70",
+          "pct": 43
+        },
+        {
+          "label": "70+",
+          "pct": 22
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Sholinganallur Candidate A",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Sholinganallur Candidate B",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Sholinganallur Candidate C",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Sholinganallur Representative",
+        "party": "AIADMK",
+        "margin": "Won by 1297"
+      },
+      {
+        "year": 2016,
+        "winner": "Sholinganallur Representative",
+        "party": "AIADMK",
+        "margin": "Won by 1043"
+      },
+      {
+        "year": 2011,
+        "winner": "Sholinganallur Representative",
+        "party": "AIADMK",
+        "margin": "Won by 789"
+      }
+    ]
+  }
+]

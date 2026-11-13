@@ -1,0 +1,114 @@
+[
+  {
+    "id": 67,
+    "number": "67",
+    "name": "Arani",
+    "nameTamil": "Arani",
+    "district": "Tiruvannamalai",
+    "region": "Northern Tamil Nadu",
+    "classification": "Silk Trade",
+    "totalVoters": 255000,
+    "genderRatio": "987 / 1000",
+    "pollingStations": 255,
+    "incumbent": {
+      "name": "Arani Representative",
+      "party": "MDMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "8.7%",
+      "marginBarWidth": "52%"
+    },
+    "demographics": {
+      "urbanPct": 59,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 38
+        },
+        {
+          "label": "26-40",
+          "pct": 62
+        },
+        {
+          "label": "41-55",
+          "pct": 74
+        },
+        {
+          "label": "56-70",
+          "pct": 41
+        },
+        {
+          "label": "70+",
+          "pct": 22
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Arani Candidate A",
+        "partyShort": "MDMK",
+        "partyFull": "Marumalarchi Dravida Munnetra Kazhagam",
+        "partyColor": "#0f766e",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Arani Candidate B",
+        "partyShort": "AMMK",
+        "partyFull": "Amma Makkal Munnetra Kazhagam",
+        "partyColor": "#9333ea",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Arani Candidate C",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Arani Representative",
+        "party": "MDMK",
+        "margin": "Won by 1737"
+      },
+      {
+        "year": 2016,
+        "winner": "Arani Representative",
+        "party": "MDMK",
+        "margin": "Won by 1403"
+      },
+      {
+        "year": 2011,
+        "winner": "Arani Representative",
+        "party": "MDMK",
+        "margin": "Won by 1069"
+      }
+    ]
+  }
+]

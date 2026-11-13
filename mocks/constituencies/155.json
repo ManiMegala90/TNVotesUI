@@ -1,0 +1,114 @@
+[
+  {
+    "id": 155,
+    "number": "155",
+    "name": "Cuddalore",
+    "nameTamil": "Cuddalore",
+    "district": "Cuddalore",
+    "region": "Northern Tamil Nadu",
+    "classification": "Coastal City",
+    "totalVoters": 290000,
+    "genderRatio": "985 / 1000",
+    "pollingStations": 290,
+    "incumbent": {
+      "name": "Cuddalore Representative",
+      "party": "NTK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "+12.5%",
+      "marginBarWidth": "50%"
+    },
+    "demographics": {
+      "urbanPct": 45,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 38
+        },
+        {
+          "label": "26-40",
+          "pct": 60
+        },
+        {
+          "label": "41-55",
+          "pct": 71
+        },
+        {
+          "label": "56-70",
+          "pct": 45
+        },
+        {
+          "label": "70+",
+          "pct": 20
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Cuddalore Candidate A",
+        "partyShort": "NTK",
+        "partyFull": "Naam Tamilar Katchi",
+        "partyColor": "#f97316",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Cuddalore Candidate B",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Cuddalore Candidate C",
+        "partyShort": "Congress",
+        "partyFull": "Indian National Congress",
+        "partyColor": "#2563eb",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Cuddalore Representative",
+        "party": "NTK",
+        "margin": "Won by 2705"
+      },
+      {
+        "year": 2016,
+        "winner": "Cuddalore Representative",
+        "party": "NTK",
+        "margin": "Won by 2195"
+      },
+      {
+        "year": 2011,
+        "winner": "Cuddalore Representative",
+        "party": "NTK",
+        "margin": "Won by 1685"
+      }
+    ]
+  }
+]

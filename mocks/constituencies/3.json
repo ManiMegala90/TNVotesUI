@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3,
+    "number": "3",
+    "name": "Tiruttani",
+    "nameTamil": "Tiruttani",
+    "district": "Tiruvallur",
+    "region": "Northern Tamil Nadu",
+    "classification": "Pilgrimage Hub",
+    "totalVoters": 242000,
+    "genderRatio": "983 / 1000",
+    "pollingStations": 242,
+    "incumbent": {
+      "name": "Tiruttani Representative",
+      "party": "AMMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "4.3%",
+      "marginBarWidth": "48%"
+    },
+    "demographics": {
+      "urbanPct": 61,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 38
+        },
+        {
+          "label": "26-40",
+          "pct": 58
+        },
+        {
+          "label": "41-55",
+          "pct": 73
+        },
+        {
+          "label": "56-70",
+          "pct": 43
+        },
+        {
+          "label": "70+",
+          "pct": 23
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Tiruttani Candidate A",
+        "partyShort": "AMMK",
+        "partyFull": "Amma Makkal Munnetra Kazhagam",
+        "partyColor": "#9333ea",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Tiruttani Candidate B",
+        "partyShort": "Congress",
+        "partyFull": "Indian National Congress",
+        "partyColor": "#2563eb",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Tiruttani Candidate C",
+        "partyShort": "MDMK",
+        "partyFull": "Marumalarchi Dravida Munnetra Kazhagam",
+        "partyColor": "#0f766e",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Tiruttani Representative",
+        "party": "AMMK",
+        "margin": "Won by 1033"
+      },
+      {
+        "year": 2016,
+        "winner": "Tiruttani Representative",
+        "party": "AMMK",
+        "margin": "Won by 827"
+      },
+      {
+        "year": 2011,
+        "winner": "Tiruttani Representative",
+        "party": "AMMK",
+        "margin": "Won by 621"
+      }
+    ]
+  }
+]

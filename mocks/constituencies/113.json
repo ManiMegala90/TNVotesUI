@@ -1,0 +1,114 @@
+[
+  {
+    "id": 113,
+    "number": "113",
+    "name": "Tiruppur (North)",
+    "nameTamil": "Tiruppur (North)",
+    "district": "Tiruppur",
+    "region": "Western Tamil Nadu",
+    "classification": "Knitwear Hub",
+    "totalVoters": 315000,
+    "genderRatio": "983 / 1000",
+    "pollingStations": 315,
+    "incumbent": {
+      "name": "Tiruppur Representative",
+      "party": "NTK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "6.3%",
+      "marginBarWidth": "53%"
+    },
+    "demographics": {
+      "urbanPct": 51,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 36
+        },
+        {
+          "label": "26-40",
+          "pct": 58
+        },
+        {
+          "label": "41-55",
+          "pct": 71
+        },
+        {
+          "label": "56-70",
+          "pct": 45
+        },
+        {
+          "label": "70+",
+          "pct": 23
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Tiruppur Candidate A",
+        "partyShort": "NTK",
+        "partyFull": "Naam Tamilar Katchi",
+        "partyColor": "#f97316",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Tiruppur Candidate B",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Tiruppur Candidate C",
+        "partyShort": "Congress",
+        "partyFull": "Indian National Congress",
+        "partyColor": "#2563eb",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Tiruppur Representative",
+        "party": "NTK",
+        "margin": "Won by 2243"
+      },
+      {
+        "year": 2016,
+        "winner": "Tiruppur Representative",
+        "party": "NTK",
+        "margin": "Won by 1817"
+      },
+      {
+        "year": 2011,
+        "winner": "Tiruppur Representative",
+        "party": "NTK",
+        "margin": "Won by 1391"
+      }
+    ]
+  }
+]

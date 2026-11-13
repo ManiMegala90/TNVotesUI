@@ -1,0 +1,114 @@
+[
+  {
+    "id": 79,
+    "number": "79",
+    "name": "Sankarapuram",
+    "nameTamil": "Sankarapuram",
+    "district": "Kallakurichi",
+    "region": "Northern Tamil Nadu",
+    "classification": "Agrarian Belt",
+    "totalVoters": 240000,
+    "genderRatio": "989 / 1000",
+    "pollingStations": 240,
+    "incumbent": {
+      "name": "Sankarapuram Representative",
+      "party": "Congress",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "8.9%",
+      "marginBarWidth": "49%"
+    },
+    "demographics": {
+      "urbanPct": 53,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 42
+        },
+        {
+          "label": "26-40",
+          "pct": 64
+        },
+        {
+          "label": "41-55",
+          "pct": 72
+        },
+        {
+          "label": "56-70",
+          "pct": 41
+        },
+        {
+          "label": "70+",
+          "pct": 24
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Sankarapuram Candidate A",
+        "partyShort": "Congress",
+        "partyFull": "Indian National Congress",
+        "partyColor": "#2563eb",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Sankarapuram Candidate B",
+        "partyShort": "NTK",
+        "partyFull": "Naam Tamilar Katchi",
+        "partyColor": "#f97316",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Sankarapuram Candidate C",
+        "partyShort": "AMMK",
+        "partyFull": "Amma Makkal Munnetra Kazhagam",
+        "partyColor": "#9333ea",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Sankarapuram Representative",
+        "party": "Congress",
+        "margin": "Won by 1869"
+      },
+      {
+        "year": 2016,
+        "winner": "Sankarapuram Representative",
+        "party": "Congress",
+        "margin": "Won by 1511"
+      },
+      {
+        "year": 2011,
+        "winner": "Sankarapuram Representative",
+        "party": "Congress",
+        "margin": "Won by 1153"
+      }
+    ]
+  }
+]

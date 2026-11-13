@@ -1,0 +1,114 @@
+[
+  {
+    "id": 209,
+    "number": "209",
+    "name": "Paramakudi",
+    "nameTamil": "Paramakudi",
+    "district": "Ramanathapuram",
+    "region": "Southern Tamil Nadu",
+    "classification": "Community Politics",
+    "totalVoters": 260000,
+    "genderRatio": "989 / 1000",
+    "pollingStations": 260,
+    "incumbent": {
+      "name": "Paramakudi Representative",
+      "party": "AIADMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "6.9%",
+      "marginBarWidth": "59%"
+    },
+    "demographics": {
+      "urbanPct": 63,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 36
+        },
+        {
+          "label": "26-40",
+          "pct": 64
+        },
+        {
+          "label": "41-55",
+          "pct": 76
+        },
+        {
+          "label": "56-70",
+          "pct": 45
+        },
+        {
+          "label": "70+",
+          "pct": 24
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Paramakudi Candidate A",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Paramakudi Candidate B",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Paramakudi Candidate C",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Paramakudi Representative",
+        "party": "AIADMK",
+        "margin": "Won by 3299"
+      },
+      {
+        "year": 2016,
+        "winner": "Paramakudi Representative",
+        "party": "AIADMK",
+        "margin": "Won by 2681"
+      },
+      {
+        "year": 2011,
+        "winner": "Paramakudi Representative",
+        "party": "AIADMK",
+        "margin": "Won by 2063"
+      }
+    ]
+  }
+]

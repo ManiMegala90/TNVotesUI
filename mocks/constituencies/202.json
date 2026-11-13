@@ -1,0 +1,114 @@
+[
+  {
+    "id": 202,
+    "number": "202",
+    "name": "Rajapalayam",
+    "nameTamil": "Rajapalayam",
+    "district": "Virudhunagar",
+    "region": "Southern Tamil Nadu",
+    "classification": "Textile Town",
+    "totalVoters": 275000,
+    "genderRatio": "982 / 1000",
+    "pollingStations": 275,
+    "incumbent": {
+      "name": "Rajapalayam Representative",
+      "party": "AIADMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "2nd Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "11.2%",
+      "marginBarWidth": "52%"
+    },
+    "demographics": {
+      "urbanPct": 44,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 37
+        },
+        {
+          "label": "26-40",
+          "pct": 57
+        },
+        {
+          "label": "41-55",
+          "pct": 76
+        },
+        {
+          "label": "56-70",
+          "pct": 44
+        },
+        {
+          "label": "70+",
+          "pct": 22
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Rajapalayam Candidate A",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Rajapalayam Candidate B",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Rajapalayam Candidate C",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Rajapalayam Representative",
+        "party": "AIADMK",
+        "margin": "Won by 3222"
+      },
+      {
+        "year": 2016,
+        "winner": "Rajapalayam Representative",
+        "party": "AIADMK",
+        "margin": "Won by 2618"
+      },
+      {
+        "year": 2011,
+        "winner": "Rajapalayam Representative",
+        "party": "AIADMK",
+        "margin": "Won by 2014"
+      }
+    ]
+  }
+]

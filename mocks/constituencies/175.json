@@ -1,0 +1,114 @@
+[
+  {
+    "id": 175,
+    "number": "175",
+    "name": "Orathanadu",
+    "nameTamil": "Orathanadu",
+    "district": "Thanjavur",
+    "region": "Tamil Nadu",
+    "classification": "Rice Bowl",
+    "totalVoters": 260000,
+    "genderRatio": "985 / 1000",
+    "pollingStations": 260,
+    "incumbent": {
+      "name": "Orathanadu Representative",
+      "party": "BJP",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "+8.5%",
+      "marginBarWidth": "55%"
+    },
+    "demographics": {
+      "urbanPct": 65,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 42
+        },
+        {
+          "label": "26-40",
+          "pct": 60
+        },
+        {
+          "label": "41-55",
+          "pct": 70
+        },
+        {
+          "label": "56-70",
+          "pct": 41
+        },
+        {
+          "label": "70+",
+          "pct": 20
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Orathanadu Candidate A",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Orathanadu Candidate B",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Orathanadu Candidate C",
+        "partyShort": "NTK",
+        "partyFull": "Naam Tamilar Katchi",
+        "partyColor": "#f97316",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Orathanadu Representative",
+        "party": "BJP",
+        "margin": "Won by 2925"
+      },
+      {
+        "year": 2016,
+        "winner": "Orathanadu Representative",
+        "party": "BJP",
+        "margin": "Won by 2375"
+      },
+      {
+        "year": 2011,
+        "winner": "Orathanadu Representative",
+        "party": "BJP",
+        "margin": "Won by 1825"
+      }
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 146,
+    "number": "146",
+    "name": "Thuraiyur",
+    "nameTamil": "Thuraiyur",
+    "district": "Tiruchirappalli",
+    "region": "Central Tamil Nadu",
+    "classification": "Hill Fringe",
+    "totalVoters": 245000,
+    "genderRatio": "986 / 1000",
+    "pollingStations": 245,
+    "incumbent": {
+      "name": "Thuraiyur Representative",
+      "party": "AIADMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "2nd Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "3.6%",
+      "marginBarWidth": "56%"
+    },
+    "demographics": {
+      "urbanPct": 42,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 37
+        },
+        {
+          "label": "26-40",
+          "pct": 61
+        },
+        {
+          "label": "41-55",
+          "pct": 76
+        },
+        {
+          "label": "56-70",
+          "pct": 42
+        },
+        {
+          "label": "70+",
+          "pct": 21
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Thuraiyur Candidate A",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Thuraiyur Candidate B",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Thuraiyur Candidate C",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Thuraiyur Representative",
+        "party": "AIADMK",
+        "margin": "Won by 2606"
+      },
+      {
+        "year": 2016,
+        "winner": "Thuraiyur Representative",
+        "party": "AIADMK",
+        "margin": "Won by 2114"
+      },
+      {
+        "year": 2011,
+        "winner": "Thuraiyur Representative",
+        "party": "AIADMK",
+        "margin": "Won by 1622"
+      }
+    ]
+  }
+]

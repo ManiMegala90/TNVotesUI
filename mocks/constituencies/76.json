@@ -1,0 +1,114 @@
+[
+  {
+    "id": 76,
+    "number": "76",
+    "name": "Tirukkoyilur",
+    "nameTamil": "Tirukkoyilur",
+    "district": "Kallakurichi",
+    "region": "Northern Tamil Nadu",
+    "classification": "Temple Town",
+    "totalVoters": 255000,
+    "genderRatio": "986 / 1000",
+    "pollingStations": 255,
+    "incumbent": {
+      "name": "Tirukkoyilur Representative",
+      "party": "AIADMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "2nd Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "5.6%",
+      "marginBarWidth": "46%"
+    },
+    "demographics": {
+      "urbanPct": 62,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 39
+        },
+        {
+          "label": "26-40",
+          "pct": 61
+        },
+        {
+          "label": "41-55",
+          "pct": 76
+        },
+        {
+          "label": "56-70",
+          "pct": 44
+        },
+        {
+          "label": "70+",
+          "pct": 21
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Tirukkoyilur Candidate A",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Tirukkoyilur Candidate B",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Tirukkoyilur Candidate C",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Tirukkoyilur Representative",
+        "party": "AIADMK",
+        "margin": "Won by 1836"
+      },
+      {
+        "year": 2016,
+        "winner": "Tirukkoyilur Representative",
+        "party": "AIADMK",
+        "margin": "Won by 1484"
+      },
+      {
+        "year": 2011,
+        "winner": "Tirukkoyilur Representative",
+        "party": "AIADMK",
+        "margin": "Won by 1132"
+      }
+    ]
+  }
+]

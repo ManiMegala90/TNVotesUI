@@ -1,0 +1,114 @@
+[
+  {
+    "id": 140,
+    "number": "140",
+    "name": "Tiruchirappalli (West)",
+    "nameTamil": "Tiruchirappalli (West)",
+    "district": "Tiruchirappalli",
+    "region": "Central Tamil Nadu",
+    "classification": "Urban Core",
+    "totalVoters": 300000,
+    "genderRatio": "980 / 1000",
+    "pollingStations": 300,
+    "incumbent": {
+      "name": "Tiruchirappalli Representative",
+      "party": "BJP",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "2nd Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "+9.0%",
+      "marginBarWidth": "50%"
+    },
+    "demographics": {
+      "urbanPct": 60,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 39
+        },
+        {
+          "label": "26-40",
+          "pct": 55
+        },
+        {
+          "label": "41-55",
+          "pct": 70
+        },
+        {
+          "label": "56-70",
+          "pct": 42
+        },
+        {
+          "label": "70+",
+          "pct": 20
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Tiruchirappalli Candidate A",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Tiruchirappalli Candidate B",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Tiruchirappalli Candidate C",
+        "partyShort": "NTK",
+        "partyFull": "Naam Tamilar Katchi",
+        "partyColor": "#f97316",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Tiruchirappalli Representative",
+        "party": "BJP",
+        "margin": "Won by 2540"
+      },
+      {
+        "year": 2016,
+        "winner": "Tiruchirappalli Representative",
+        "party": "BJP",
+        "margin": "Won by 2060"
+      },
+      {
+        "year": 2011,
+        "winner": "Tiruchirappalli Representative",
+        "party": "BJP",
+        "margin": "Won by 1580"
+      }
+    ]
+  }
+]

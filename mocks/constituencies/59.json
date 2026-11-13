@@ -1,0 +1,114 @@
+[
+  {
+    "id": 59,
+    "number": "59",
+    "name": "Dharmapuri",
+    "nameTamil": "Dharmapuri",
+    "district": "Dharmapuri",
+    "region": "Western Tamil Nadu",
+    "classification": "District HQ",
+    "totalVoters": 275000,
+    "genderRatio": "989 / 1000",
+    "pollingStations": 275,
+    "incumbent": {
+      "name": "Dharmapuri Representative",
+      "party": "AMMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "12.9%",
+      "marginBarWidth": "59%"
+    },
+    "demographics": {
+      "urbanPct": 63,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 38
+        },
+        {
+          "label": "26-40",
+          "pct": 64
+        },
+        {
+          "label": "41-55",
+          "pct": 73
+        },
+        {
+          "label": "56-70",
+          "pct": 45
+        },
+        {
+          "label": "70+",
+          "pct": 24
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Dharmapuri Candidate A",
+        "partyShort": "AMMK",
+        "partyFull": "Amma Makkal Munnetra Kazhagam",
+        "partyColor": "#9333ea",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Dharmapuri Candidate B",
+        "partyShort": "Congress",
+        "partyFull": "Indian National Congress",
+        "partyColor": "#2563eb",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Dharmapuri Candidate C",
+        "partyShort": "MDMK",
+        "partyFull": "Marumalarchi Dravida Munnetra Kazhagam",
+        "partyColor": "#0f766e",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Dharmapuri Representative",
+        "party": "AMMK",
+        "margin": "Won by 1649"
+      },
+      {
+        "year": 2016,
+        "winner": "Dharmapuri Representative",
+        "party": "AMMK",
+        "margin": "Won by 1331"
+      },
+      {
+        "year": 2011,
+        "winner": "Dharmapuri Representative",
+        "party": "AMMK",
+        "margin": "Won by 1013"
+      }
+    ]
+  }
+]

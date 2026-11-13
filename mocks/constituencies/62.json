@@ -1,0 +1,114 @@
+[
+  {
+    "id": 62,
+    "number": "62",
+    "name": "Chengam",
+    "nameTamil": "Chengam",
+    "district": "Tiruvannamalai",
+    "region": "Northern Tamil Nadu",
+    "classification": "Dry Farming",
+    "totalVoters": 235000,
+    "genderRatio": "982 / 1000",
+    "pollingStations": 235,
+    "incumbent": {
+      "name": "Chengam Representative",
+      "party": "AIADMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "2nd Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "3.2%",
+      "marginBarWidth": "47%"
+    },
+    "demographics": {
+      "urbanPct": 54,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 41
+        },
+        {
+          "label": "26-40",
+          "pct": 57
+        },
+        {
+          "label": "41-55",
+          "pct": 76
+        },
+        {
+          "label": "56-70",
+          "pct": 42
+        },
+        {
+          "label": "70+",
+          "pct": 22
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Chengam Candidate A",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Chengam Candidate B",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Chengam Candidate C",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Chengam Representative",
+        "party": "AIADMK",
+        "margin": "Won by 1682"
+      },
+      {
+        "year": 2016,
+        "winner": "Chengam Representative",
+        "party": "AIADMK",
+        "margin": "Won by 1358"
+      },
+      {
+        "year": 2011,
+        "winner": "Chengam Representative",
+        "party": "AIADMK",
+        "margin": "Won by 1034"
+      }
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 167,
+    "number": "167",
+    "name": "Mannargudi",
+    "nameTamil": "Mannargudi",
+    "district": "Tiruvarur",
+    "region": "Tamil Nadu",
+    "classification": "Temple & Agri",
+    "totalVoters": 265000,
+    "genderRatio": "987 / 1000",
+    "pollingStations": 265,
+    "incumbent": {
+      "name": "Mannargudi Representative",
+      "party": "AIADMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "12.7%",
+      "marginBarWidth": "47%"
+    },
+    "demographics": {
+      "urbanPct": 69,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 42
+        },
+        {
+          "label": "26-40",
+          "pct": 62
+        },
+        {
+          "label": "41-55",
+          "pct": 76
+        },
+        {
+          "label": "56-70",
+          "pct": 45
+        },
+        {
+          "label": "70+",
+          "pct": 22
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Mannargudi Candidate A",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Mannargudi Candidate B",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Mannargudi Candidate C",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Mannargudi Representative",
+        "party": "AIADMK",
+        "margin": "Won by 2837"
+      },
+      {
+        "year": 2016,
+        "winner": "Mannargudi Representative",
+        "party": "AIADMK",
+        "margin": "Won by 2303"
+      },
+      {
+        "year": 2011,
+        "winner": "Mannargudi Representative",
+        "party": "AIADMK",
+        "margin": "Won by 1769"
+      }
+    ]
+  }
+]

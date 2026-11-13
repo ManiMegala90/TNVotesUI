@@ -1,0 +1,114 @@
+[
+  {
+    "id": 53,
+    "number": "53",
+    "name": "Krishnagiri",
+    "nameTamil": "Krishnagiri",
+    "district": "Krishnagiri",
+    "region": "Western Tamil Nadu",
+    "classification": "Mango Belt",
+    "totalVoters": 265000,
+    "genderRatio": "983 / 1000",
+    "pollingStations": 265,
+    "incumbent": {
+      "name": "Krishnagiri Representative",
+      "party": "MDMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "6.3%",
+      "marginBarWidth": "53%"
+    },
+    "demographics": {
+      "urbanPct": 51,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 40
+        },
+        {
+          "label": "26-40",
+          "pct": 58
+        },
+        {
+          "label": "41-55",
+          "pct": 74
+        },
+        {
+          "label": "56-70",
+          "pct": 45
+        },
+        {
+          "label": "70+",
+          "pct": 23
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Krishnagiri Candidate A",
+        "partyShort": "MDMK",
+        "partyFull": "Marumalarchi Dravida Munnetra Kazhagam",
+        "partyColor": "#0f766e",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Krishnagiri Candidate B",
+        "partyShort": "AMMK",
+        "partyFull": "Amma Makkal Munnetra Kazhagam",
+        "partyColor": "#9333ea",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Krishnagiri Candidate C",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Krishnagiri Representative",
+        "party": "MDMK",
+        "margin": "Won by 1583"
+      },
+      {
+        "year": 2016,
+        "winner": "Krishnagiri Representative",
+        "party": "MDMK",
+        "margin": "Won by 1277"
+      },
+      {
+        "year": 2011,
+        "winner": "Krishnagiri Representative",
+        "party": "MDMK",
+        "margin": "Won by 971"
+      }
+    ]
+  }
+]

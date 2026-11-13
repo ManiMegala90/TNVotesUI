@@ -1,0 +1,114 @@
+[
+  {
+    "id": 145,
+    "number": "145",
+    "name": "Musiri",
+    "nameTamil": "Musiri",
+    "district": "Tiruchirappalli",
+    "region": "Central Tamil Nadu",
+    "classification": "River Agriculture",
+    "totalVoters": 250000,
+    "genderRatio": "985 / 1000",
+    "pollingStations": 250,
+    "incumbent": {
+      "name": "Musiri Representative",
+      "party": "DMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "+2.5%",
+      "marginBarWidth": "55%"
+    },
+    "demographics": {
+      "urbanPct": 65,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 36
+        },
+        {
+          "label": "26-40",
+          "pct": 60
+        },
+        {
+          "label": "41-55",
+          "pct": 75
+        },
+        {
+          "label": "56-70",
+          "pct": 41
+        },
+        {
+          "label": "70+",
+          "pct": 20
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Musiri Candidate A",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Musiri Candidate B",
+        "partyShort": "MDMK",
+        "partyFull": "Marumalarchi Dravida Munnetra Kazhagam",
+        "partyColor": "#0f766e",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Musiri Candidate C",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Musiri Representative",
+        "party": "DMK",
+        "margin": "Won by 2595"
+      },
+      {
+        "year": 2016,
+        "winner": "Musiri Representative",
+        "party": "DMK",
+        "margin": "Won by 2105"
+      },
+      {
+        "year": 2011,
+        "winner": "Musiri Representative",
+        "party": "DMK",
+        "margin": "Won by 1615"
+      }
+    ]
+  }
+]

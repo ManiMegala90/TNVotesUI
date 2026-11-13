@@ -1,0 +1,114 @@
+[
+  {
+    "id": 195,
+    "number": "195",
+    "name": "Thiruparankundram",
+    "nameTamil": "Thiruparankundram",
+    "district": "Madurai",
+    "region": "Southern Tamil Nadu",
+    "classification": "Temple & Suburban Zone",
+    "totalVoters": 320000,
+    "genderRatio": "985 / 1000",
+    "pollingStations": 320,
+    "incumbent": {
+      "name": "Thiruparankundram Representative",
+      "party": "AIADMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "+4.5%",
+      "marginBarWidth": "45%"
+    },
+    "demographics": {
+      "urbanPct": 55,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 38
+        },
+        {
+          "label": "26-40",
+          "pct": 60
+        },
+        {
+          "label": "41-55",
+          "pct": 76
+        },
+        {
+          "label": "56-70",
+          "pct": 43
+        },
+        {
+          "label": "70+",
+          "pct": 20
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Thiruparankundram Candidate A",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Thiruparankundram Candidate B",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Thiruparankundram Candidate C",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Thiruparankundram Representative",
+        "party": "AIADMK",
+        "margin": "Won by 3145"
+      },
+      {
+        "year": 2016,
+        "winner": "Thiruparankundram Representative",
+        "party": "AIADMK",
+        "margin": "Won by 2555"
+      },
+      {
+        "year": 2011,
+        "winner": "Thiruparankundram Representative",
+        "party": "AIADMK",
+        "margin": "Won by 1965"
+      }
+    ]
+  }
+]

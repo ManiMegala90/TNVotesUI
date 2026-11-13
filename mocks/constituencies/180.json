@@ -1,0 +1,114 @@
+[
+  {
+    "id": 180,
+    "number": "180",
+    "name": "Pudukkottai",
+    "nameTamil": "Pudukkottai",
+    "district": "Pudukkottai",
+    "region": "Central Tamil Nadu",
+    "classification": "District Hub",
+    "totalVoters": 270000,
+    "genderRatio": "980 / 1000",
+    "pollingStations": 270,
+    "incumbent": {
+      "name": "Pudukkottai Representative",
+      "party": "DMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "2nd Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "+1.0%",
+      "marginBarWidth": "45%"
+    },
+    "demographics": {
+      "urbanPct": 40,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 39
+        },
+        {
+          "label": "26-40",
+          "pct": 55
+        },
+        {
+          "label": "41-55",
+          "pct": 75
+        },
+        {
+          "label": "56-70",
+          "pct": 40
+        },
+        {
+          "label": "70+",
+          "pct": 20
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Pudukkottai Candidate A",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Pudukkottai Candidate B",
+        "partyShort": "MDMK",
+        "partyFull": "Marumalarchi Dravida Munnetra Kazhagam",
+        "partyColor": "#0f766e",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Pudukkottai Candidate C",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Pudukkottai Representative",
+        "party": "DMK",
+        "margin": "Won by 2980"
+      },
+      {
+        "year": 2016,
+        "winner": "Pudukkottai Representative",
+        "party": "DMK",
+        "margin": "Won by 2420"
+      },
+      {
+        "year": 2011,
+        "winner": "Pudukkottai Representative",
+        "party": "DMK",
+        "margin": "Won by 1860"
+      }
+    ]
+  }
+]

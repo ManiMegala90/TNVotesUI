@@ -1,0 +1,114 @@
+[
+  {
+    "id": 181,
+    "number": "181",
+    "name": "Thirumayam",
+    "nameTamil": "Thirumayam",
+    "district": "Pudukkottai",
+    "region": "Central Tamil Nadu",
+    "classification": "Historic Region",
+    "totalVoters": 245000,
+    "genderRatio": "981 / 1000",
+    "pollingStations": 245,
+    "incumbent": {
+      "name": "Thirumayam Representative",
+      "party": "AIADMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "2.1%",
+      "marginBarWidth": "46%"
+    },
+    "demographics": {
+      "urbanPct": 47,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 40
+        },
+        {
+          "label": "26-40",
+          "pct": 56
+        },
+        {
+          "label": "41-55",
+          "pct": 76
+        },
+        {
+          "label": "56-70",
+          "pct": 41
+        },
+        {
+          "label": "70+",
+          "pct": 21
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Thirumayam Candidate A",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Thirumayam Candidate B",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Thirumayam Candidate C",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Thirumayam Representative",
+        "party": "AIADMK",
+        "margin": "Won by 2991"
+      },
+      {
+        "year": 2016,
+        "winner": "Thirumayam Representative",
+        "party": "AIADMK",
+        "margin": "Won by 2429"
+      },
+      {
+        "year": 2011,
+        "winner": "Thirumayam Representative",
+        "party": "AIADMK",
+        "margin": "Won by 1867"
+      }
+    ]
+  }
+]

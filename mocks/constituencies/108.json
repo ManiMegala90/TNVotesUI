@@ -1,0 +1,114 @@
+[
+  {
+    "id": 108,
+    "number": "108",
+    "name": "Udhagamandalam",
+    "nameTamil": "Udhagamandalam",
+    "district": "Nilgiris",
+    "region": "Western Tamil Nadu",
+    "classification": "Hill Station",
+    "totalVoters": 210000,
+    "genderRatio": "988 / 1000",
+    "pollingStations": 210,
+    "incumbent": {
+      "name": "Udhagamandalam Representative",
+      "party": "AMMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "2nd Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "1.8%",
+      "marginBarWidth": "48%"
+    },
+    "demographics": {
+      "urbanPct": 46,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 39
+        },
+        {
+          "label": "26-40",
+          "pct": 63
+        },
+        {
+          "label": "41-55",
+          "pct": 73
+        },
+        {
+          "label": "56-70",
+          "pct": 40
+        },
+        {
+          "label": "70+",
+          "pct": 23
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Udhagamandalam Candidate A",
+        "partyShort": "AMMK",
+        "partyFull": "Amma Makkal Munnetra Kazhagam",
+        "partyColor": "#9333ea",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Udhagamandalam Candidate B",
+        "partyShort": "Congress",
+        "partyFull": "Indian National Congress",
+        "partyColor": "#2563eb",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Udhagamandalam Candidate C",
+        "partyShort": "MDMK",
+        "partyFull": "Marumalarchi Dravida Munnetra Kazhagam",
+        "partyColor": "#0f766e",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Udhagamandalam Representative",
+        "party": "AMMK",
+        "margin": "Won by 2188"
+      },
+      {
+        "year": 2016,
+        "winner": "Udhagamandalam Representative",
+        "party": "AMMK",
+        "margin": "Won by 1772"
+      },
+      {
+        "year": 2011,
+        "winner": "Udhagamandalam Representative",
+        "party": "AMMK",
+        "margin": "Won by 1356"
+      }
+    ]
+  }
+]

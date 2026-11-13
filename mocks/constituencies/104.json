@@ -1,0 +1,114 @@
+[
+  {
+    "id": 104,
+    "number": "104",
+    "name": "Bhavani",
+    "nameTamil": "Bhavani",
+    "district": "Erode",
+    "region": "Western Tamil Nadu",
+    "classification": "River Confluence",
+    "totalVoters": 250000,
+    "genderRatio": "984 / 1000",
+    "pollingStations": 250,
+    "incumbent": {
+      "name": "Bhavani Representative",
+      "party": "AIADMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "2nd Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "9.4%",
+      "marginBarWidth": "59%"
+    },
+    "demographics": {
+      "urbanPct": 48,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 35
+        },
+        {
+          "label": "26-40",
+          "pct": 59
+        },
+        {
+          "label": "41-55",
+          "pct": 76
+        },
+        {
+          "label": "56-70",
+          "pct": 42
+        },
+        {
+          "label": "70+",
+          "pct": 24
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Bhavani Candidate A",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Bhavani Candidate B",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Bhavani Candidate C",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Bhavani Representative",
+        "party": "AIADMK",
+        "margin": "Won by 2144"
+      },
+      {
+        "year": 2016,
+        "winner": "Bhavani Representative",
+        "party": "AIADMK",
+        "margin": "Won by 1736"
+      },
+      {
+        "year": 2011,
+        "winner": "Bhavani Representative",
+        "party": "AIADMK",
+        "margin": "Won by 1328"
+      }
+    ]
+  }
+]

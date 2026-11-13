@@ -1,0 +1,114 @@
+[
+  {
+    "id": 157,
+    "number": "157",
+    "name": "Bhuvanagiri",
+    "nameTamil": "Bhuvanagiri",
+    "district": "Cuddalore",
+    "region": "Northern Tamil Nadu",
+    "classification": "Agri Region",
+    "totalVoters": 245000,
+    "genderRatio": "987 / 1000",
+    "pollingStations": 245,
+    "incumbent": {
+      "name": "Bhuvanagiri Representative",
+      "party": "AMMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "2.7%",
+      "marginBarWidth": "52%"
+    },
+    "demographics": {
+      "urbanPct": 59,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 40
+        },
+        {
+          "label": "26-40",
+          "pct": 62
+        },
+        {
+          "label": "41-55",
+          "pct": 73
+        },
+        {
+          "label": "56-70",
+          "pct": 41
+        },
+        {
+          "label": "70+",
+          "pct": 22
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Bhuvanagiri Candidate A",
+        "partyShort": "AMMK",
+        "partyFull": "Amma Makkal Munnetra Kazhagam",
+        "partyColor": "#9333ea",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Bhuvanagiri Candidate B",
+        "partyShort": "Congress",
+        "partyFull": "Indian National Congress",
+        "partyColor": "#2563eb",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Bhuvanagiri Candidate C",
+        "partyShort": "MDMK",
+        "partyFull": "Marumalarchi Dravida Munnetra Kazhagam",
+        "partyColor": "#0f766e",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Bhuvanagiri Representative",
+        "party": "AMMK",
+        "margin": "Won by 2727"
+      },
+      {
+        "year": 2016,
+        "winner": "Bhuvanagiri Representative",
+        "party": "AMMK",
+        "margin": "Won by 2213"
+      },
+      {
+        "year": 2011,
+        "winner": "Bhuvanagiri Representative",
+        "party": "AMMK",
+        "margin": "Won by 1699"
+      }
+    ]
+  }
+]

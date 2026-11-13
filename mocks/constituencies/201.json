@@ -1,0 +1,114 @@
+[
+  {
+    "id": 201,
+    "number": "201",
+    "name": "Cumbum",
+    "nameTamil": "Cumbum",
+    "district": "Theni",
+    "region": "Southern Tamil Nadu",
+    "classification": "Valley Farming",
+    "totalVoters": 250000,
+    "genderRatio": "981 / 1000",
+    "pollingStations": 250,
+    "incumbent": {
+      "name": "Cumbum Representative",
+      "party": "DMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "10.1%",
+      "marginBarWidth": "51%"
+    },
+    "demographics": {
+      "urbanPct": 67,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 36
+        },
+        {
+          "label": "26-40",
+          "pct": 56
+        },
+        {
+          "label": "41-55",
+          "pct": 75
+        },
+        {
+          "label": "56-70",
+          "pct": 43
+        },
+        {
+          "label": "70+",
+          "pct": 21
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Cumbum Candidate A",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Cumbum Candidate B",
+        "partyShort": "MDMK",
+        "partyFull": "Marumalarchi Dravida Munnetra Kazhagam",
+        "partyColor": "#0f766e",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Cumbum Candidate C",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Cumbum Representative",
+        "party": "DMK",
+        "margin": "Won by 3211"
+      },
+      {
+        "year": 2016,
+        "winner": "Cumbum Representative",
+        "party": "DMK",
+        "margin": "Won by 2609"
+      },
+      {
+        "year": 2011,
+        "winner": "Cumbum Representative",
+        "party": "DMK",
+        "margin": "Won by 2007"
+      }
+    ]
+  }
+]

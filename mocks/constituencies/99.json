@@ -1,0 +1,114 @@
+[
+  {
+    "id": 99,
+    "number": "99",
+    "name": "Erode (West)",
+    "nameTamil": "Erode (West)",
+    "district": "Erode",
+    "region": "Western Tamil Nadu",
+    "classification": "Urban Residential",
+    "totalVoters": 280000,
+    "genderRatio": "989 / 1000",
+    "pollingStations": 280,
+    "incumbent": {
+      "name": "Erode Representative",
+      "party": "NTK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "4.9%",
+      "marginBarWidth": "54%"
+    },
+    "demographics": {
+      "urbanPct": 43,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 38
+        },
+        {
+          "label": "26-40",
+          "pct": 64
+        },
+        {
+          "label": "41-55",
+          "pct": 71
+        },
+        {
+          "label": "56-70",
+          "pct": 43
+        },
+        {
+          "label": "70+",
+          "pct": 24
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Erode Candidate A",
+        "partyShort": "NTK",
+        "partyFull": "Naam Tamilar Katchi",
+        "partyColor": "#f97316",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Erode Candidate B",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Erode Candidate C",
+        "partyShort": "Congress",
+        "partyFull": "Indian National Congress",
+        "partyColor": "#2563eb",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Erode Representative",
+        "party": "NTK",
+        "margin": "Won by 2089"
+      },
+      {
+        "year": 2016,
+        "winner": "Erode Representative",
+        "party": "NTK",
+        "margin": "Won by 1691"
+      },
+      {
+        "year": 2011,
+        "winner": "Erode Representative",
+        "party": "NTK",
+        "margin": "Won by 1293"
+      }
+    ]
+  }
+]

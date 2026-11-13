@@ -1,0 +1,114 @@
+[
+  {
+    "id": 41,
+    "number": "41",
+    "name": "Ranipet",
+    "nameTamil": "Ranipet",
+    "district": "Ranipet",
+    "region": "Northern Tamil Nadu",
+    "classification": "Industrial Town",
+    "totalVoters": 260000,
+    "genderRatio": "981 / 1000",
+    "pollingStations": 260,
+    "incumbent": {
+      "name": "Ranipet Representative",
+      "party": "AIADMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "6.1%",
+      "marginBarWidth": "56%"
+    },
+    "demographics": {
+      "urbanPct": 57,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 36
+        },
+        {
+          "label": "26-40",
+          "pct": 56
+        },
+        {
+          "label": "41-55",
+          "pct": 76
+        },
+        {
+          "label": "56-70",
+          "pct": 45
+        },
+        {
+          "label": "70+",
+          "pct": 21
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Ranipet Candidate A",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Ranipet Candidate B",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Ranipet Candidate C",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Ranipet Representative",
+        "party": "AIADMK",
+        "margin": "Won by 1451"
+      },
+      {
+        "year": 2016,
+        "winner": "Ranipet Representative",
+        "party": "AIADMK",
+        "margin": "Won by 1169"
+      },
+      {
+        "year": 2011,
+        "winner": "Ranipet Representative",
+        "party": "AIADMK",
+        "margin": "Won by 887"
+      }
+    ]
+  }
+]

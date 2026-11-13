@@ -1,0 +1,114 @@
+[
+  {
+    "id": 10,
+    "number": "10",
+    "name": "Thiruvottiyur",
+    "nameTamil": "Thiruvottiyur",
+    "district": "Chennai",
+    "region": "Northern Tamil Nadu",
+    "classification": "Coastal Belt",
+    "totalVoters": 287000,
+    "genderRatio": "980 / 1000",
+    "pollingStations": 287,
+    "incumbent": {
+      "name": "Thiruvottiyur Representative",
+      "party": "AMMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "2nd Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "+11.0%",
+      "marginBarWidth": "55%"
+    },
+    "demographics": {
+      "urbanPct": 50,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 37
+        },
+        {
+          "label": "26-40",
+          "pct": 55
+        },
+        {
+          "label": "41-55",
+          "pct": 73
+        },
+        {
+          "label": "56-70",
+          "pct": 44
+        },
+        {
+          "label": "70+",
+          "pct": 20
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Thiruvottiyur Candidate A",
+        "partyShort": "AMMK",
+        "partyFull": "Amma Makkal Munnetra Kazhagam",
+        "partyColor": "#9333ea",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Thiruvottiyur Candidate B",
+        "partyShort": "Congress",
+        "partyFull": "Indian National Congress",
+        "partyColor": "#2563eb",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Thiruvottiyur Candidate C",
+        "partyShort": "MDMK",
+        "partyFull": "Marumalarchi Dravida Munnetra Kazhagam",
+        "partyColor": "#0f766e",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Thiruvottiyur Representative",
+        "party": "AMMK",
+        "margin": "Won by 1110"
+      },
+      {
+        "year": 2016,
+        "winner": "Thiruvottiyur Representative",
+        "party": "AMMK",
+        "margin": "Won by 890"
+      },
+      {
+        "year": 2011,
+        "winner": "Thiruvottiyur Representative",
+        "party": "AMMK",
+        "margin": "Won by 670"
+      }
+    ]
+  }
+]

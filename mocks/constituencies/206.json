@@ -1,0 +1,114 @@
+[
+  {
+    "id": 206,
+    "number": "206",
+    "name": "Virudhunagar",
+    "nameTamil": "Virudhunagar",
+    "district": "Virudhunagar",
+    "region": "Southern Tamil Nadu",
+    "classification": "Trade Center",
+    "totalVoters": 275000,
+    "genderRatio": "986 / 1000",
+    "pollingStations": 275,
+    "incumbent": {
+      "name": "Virudhunagar Representative",
+      "party": "AMMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "2nd Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "3.6%",
+      "marginBarWidth": "56%"
+    },
+    "demographics": {
+      "urbanPct": 42,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 41
+        },
+        {
+          "label": "26-40",
+          "pct": 61
+        },
+        {
+          "label": "41-55",
+          "pct": 73
+        },
+        {
+          "label": "56-70",
+          "pct": 42
+        },
+        {
+          "label": "70+",
+          "pct": 21
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Virudhunagar Candidate A",
+        "partyShort": "AMMK",
+        "partyFull": "Amma Makkal Munnetra Kazhagam",
+        "partyColor": "#9333ea",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Virudhunagar Candidate B",
+        "partyShort": "Congress",
+        "partyFull": "Indian National Congress",
+        "partyColor": "#2563eb",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Virudhunagar Candidate C",
+        "partyShort": "MDMK",
+        "partyFull": "Marumalarchi Dravida Munnetra Kazhagam",
+        "partyColor": "#0f766e",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Virudhunagar Representative",
+        "party": "AMMK",
+        "margin": "Won by 3266"
+      },
+      {
+        "year": 2016,
+        "winner": "Virudhunagar Representative",
+        "party": "AMMK",
+        "margin": "Won by 2654"
+      },
+      {
+        "year": 2011,
+        "winner": "Virudhunagar Representative",
+        "party": "AMMK",
+        "margin": "Won by 2042"
+      }
+    ]
+  }
+]

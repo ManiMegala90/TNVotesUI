@@ -1,0 +1,114 @@
+[
+  {
+    "id": 143,
+    "number": "143",
+    "name": "Lalgudi",
+    "nameTamil": "Lalgudi",
+    "district": "Tiruchirappalli",
+    "region": "Central Tamil Nadu",
+    "classification": "Fertile Delta",
+    "totalVoters": 260000,
+    "genderRatio": "983 / 1000",
+    "pollingStations": 260,
+    "incumbent": {
+      "name": "Lalgudi Representative",
+      "party": "AMMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "12.3%",
+      "marginBarWidth": "53%"
+    },
+    "demographics": {
+      "urbanPct": 51,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 42
+        },
+        {
+          "label": "26-40",
+          "pct": 58
+        },
+        {
+          "label": "41-55",
+          "pct": 73
+        },
+        {
+          "label": "56-70",
+          "pct": 45
+        },
+        {
+          "label": "70+",
+          "pct": 23
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Lalgudi Candidate A",
+        "partyShort": "AMMK",
+        "partyFull": "Amma Makkal Munnetra Kazhagam",
+        "partyColor": "#9333ea",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Lalgudi Candidate B",
+        "partyShort": "Congress",
+        "partyFull": "Indian National Congress",
+        "partyColor": "#2563eb",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Lalgudi Candidate C",
+        "partyShort": "MDMK",
+        "partyFull": "Marumalarchi Dravida Munnetra Kazhagam",
+        "partyColor": "#0f766e",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Lalgudi Representative",
+        "party": "AMMK",
+        "margin": "Won by 2573"
+      },
+      {
+        "year": 2016,
+        "winner": "Lalgudi Representative",
+        "party": "AMMK",
+        "margin": "Won by 2087"
+      },
+      {
+        "year": 2011,
+        "winner": "Lalgudi Representative",
+        "party": "AMMK",
+        "margin": "Won by 1601"
+      }
+    ]
+  }
+]

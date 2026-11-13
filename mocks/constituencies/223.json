@@ -1,0 +1,114 @@
+[
+  {
+    "id": 223,
+    "number": "223",
+    "name": "Alangulam",
+    "nameTamil": "Alangulam",
+    "district": "Tenkasi",
+    "region": "Southern Tamil Nadu",
+    "classification": "Rural Belt",
+    "totalVoters": 245000,
+    "genderRatio": "983 / 1000",
+    "pollingStations": 245,
+    "incumbent": {
+      "name": "Alangulam Representative",
+      "party": "AIADMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "8.3%",
+      "marginBarWidth": "58%"
+    },
+    "demographics": {
+      "urbanPct": 41,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 42
+        },
+        {
+          "label": "26-40",
+          "pct": 58
+        },
+        {
+          "label": "41-55",
+          "pct": 76
+        },
+        {
+          "label": "56-70",
+          "pct": 41
+        },
+        {
+          "label": "70+",
+          "pct": 23
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Alangulam Candidate A",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Alangulam Candidate B",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Alangulam Candidate C",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Alangulam Representative",
+        "party": "AIADMK",
+        "margin": "Won by 3453"
+      },
+      {
+        "year": 2016,
+        "winner": "Alangulam Representative",
+        "party": "AIADMK",
+        "margin": "Won by 2807"
+      },
+      {
+        "year": 2011,
+        "winner": "Alangulam Representative",
+        "party": "AIADMK",
+        "margin": "Won by 2161"
+      }
+    ]
+  }
+]

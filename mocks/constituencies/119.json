@@ -1,0 +1,114 @@
+[
+  {
+    "id": 119,
+    "number": "119",
+    "name": "Thondamuthur",
+    "nameTamil": "Thondamuthur",
+    "district": "Coimbatore",
+    "region": "Western Tamil Nadu",
+    "classification": "Semi-Rural",
+    "totalVoters": 265000,
+    "genderRatio": "989 / 1000",
+    "pollingStations": 265,
+    "incumbent": {
+      "name": "Thondamuthur Representative",
+      "party": "BJP",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "12.9%",
+      "marginBarWidth": "59%"
+    },
+    "demographics": {
+      "urbanPct": 63,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 42
+        },
+        {
+          "label": "26-40",
+          "pct": 64
+        },
+        {
+          "label": "41-55",
+          "pct": 70
+        },
+        {
+          "label": "56-70",
+          "pct": 45
+        },
+        {
+          "label": "70+",
+          "pct": 24
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Thondamuthur Candidate A",
+        "partyShort": "BJP",
+        "partyFull": "Bharatiya Janata Party",
+        "partyColor": "#ea580c",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Thondamuthur Candidate B",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Thondamuthur Candidate C",
+        "partyShort": "NTK",
+        "partyFull": "Naam Tamilar Katchi",
+        "partyColor": "#f97316",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Thondamuthur Representative",
+        "party": "BJP",
+        "margin": "Won by 2309"
+      },
+      {
+        "year": 2016,
+        "winner": "Thondamuthur Representative",
+        "party": "BJP",
+        "margin": "Won by 1871"
+      },
+      {
+        "year": 2011,
+        "winner": "Thondamuthur Representative",
+        "party": "BJP",
+        "margin": "Won by 1433"
+      }
+    ]
+  }
+]

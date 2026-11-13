@@ -1,0 +1,114 @@
+[
+  {
+    "id": 144,
+    "number": "144",
+    "name": "Manachanallur",
+    "nameTamil": "Manachanallur",
+    "district": "Tiruchirappalli",
+    "region": "Central Tamil Nadu",
+    "classification": "Rice Belt",
+    "totalVoters": 255000,
+    "genderRatio": "984 / 1000",
+    "pollingStations": 255,
+    "incumbent": {
+      "name": "Manachanallur Representative",
+      "party": "MDMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "2nd Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "1.4%",
+      "marginBarWidth": "54%"
+    },
+    "demographics": {
+      "urbanPct": 58,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 35
+        },
+        {
+          "label": "26-40",
+          "pct": 59
+        },
+        {
+          "label": "41-55",
+          "pct": 74
+        },
+        {
+          "label": "56-70",
+          "pct": 40
+        },
+        {
+          "label": "70+",
+          "pct": 24
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Manachanallur Candidate A",
+        "partyShort": "MDMK",
+        "partyFull": "Marumalarchi Dravida Munnetra Kazhagam",
+        "partyColor": "#0f766e",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Manachanallur Candidate B",
+        "partyShort": "AMMK",
+        "partyFull": "Amma Makkal Munnetra Kazhagam",
+        "partyColor": "#9333ea",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Manachanallur Candidate C",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Manachanallur Representative",
+        "party": "MDMK",
+        "margin": "Won by 2584"
+      },
+      {
+        "year": 2016,
+        "winner": "Manachanallur Representative",
+        "party": "MDMK",
+        "margin": "Won by 2096"
+      },
+      {
+        "year": 2011,
+        "winner": "Manachanallur Representative",
+        "party": "MDMK",
+        "margin": "Won by 1608"
+      }
+    ]
+  }
+]

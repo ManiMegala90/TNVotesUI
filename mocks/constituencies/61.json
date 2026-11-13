@@ -1,0 +1,114 @@
+[
+  {
+    "id": 61,
+    "number": "61",
+    "name": "Harur",
+    "nameTamil": "Harur",
+    "district": "Dharmapuri",
+    "region": "Western Tamil Nadu",
+    "classification": "Hilly Rural",
+    "totalVoters": 220000,
+    "genderRatio": "981 / 1000",
+    "pollingStations": 220,
+    "incumbent": {
+      "name": "Harur Representative",
+      "party": "DMK",
+      "photoUrl": null,
+      "termStart": "2021",
+      "termEnd": null,
+      "consecutiveTerms": "1st Consecutive Term",
+      "lastElectionYear": "2021",
+      "marginPercent": "2.1%",
+      "marginBarWidth": "46%"
+    },
+    "demographics": {
+      "urbanPct": 47,
+      "ageGroups": [
+        {
+          "label": "18-25",
+          "pct": 40
+        },
+        {
+          "label": "26-40",
+          "pct": 56
+        },
+        {
+          "label": "41-55",
+          "pct": 75
+        },
+        {
+          "label": "56-70",
+          "pct": 41
+        },
+        {
+          "label": "70+",
+          "pct": 21
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Harur Candidate A",
+        "partyShort": "DMK",
+        "partyFull": "Dravida Munnetra Kazhagam",
+        "partyColor": "#dc2626",
+        "photoUrl": null,
+        "assets": "8.2 Crores",
+        "assetsRaw": 8400000,
+        "criminalCases": "0 Pending",
+        "education": "Bachelor of Law",
+        "symbol": "Two Leaves",
+        "verificationStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Harur Candidate B",
+        "partyShort": "MDMK",
+        "partyFull": "Marumalarchi Dravida Munnetra Kazhagam",
+        "partyColor": "#0f766e",
+        "photoUrl": null,
+        "assets": "12.2 Crores",
+        "assetsRaw": 12600000,
+        "criminalCases": "0 Pending",
+        "education": "Doctorate",
+        "symbol": "Sugarcane Farmer",
+        "verificationStatus": "verified"
+      },
+      {
+        "id": 3,
+        "name": "Harur Candidate C",
+        "partyShort": "AIADMK",
+        "partyFull": "All India Anna Dravida Munnetra Kazhagam",
+        "partyColor": "#16a34a",
+        "photoUrl": null,
+        "assets": "16.2 Crores",
+        "assetsRaw": 16800000,
+        "criminalCases": "1 Pending",
+        "education": "Graduate",
+        "symbol": "Lotus",
+        "verificationStatus": "pending"
+      }
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "winner": "Harur Representative",
+        "party": "DMK",
+        "margin": "Won by 1671"
+      },
+      {
+        "year": 2016,
+        "winner": "Harur Representative",
+        "party": "DMK",
+        "margin": "Won by 1349"
+      },
+      {
+        "year": 2011,
+        "winner": "Harur Representative",
+        "party": "DMK",
+        "margin": "Won by 1027"
+      }
+    ]
+  }
+]
